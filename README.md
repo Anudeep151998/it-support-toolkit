@@ -3,7 +3,7 @@
 A unified IT support dashboard covering all three lines of support —
 built with Python and Streamlit.
 
-🔗 **Live Demo:** [Click here to open the app](YOUR_STREAMLIT_URL)
+🔗 **Live Demo:** [Click here to open the app](https://it-support-toolkit-automation.streamlit.app/)
 
 ---
 
