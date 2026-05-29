@@ -1,5 +1,5 @@
 import sqlite3
-from datetime import datetime
+from datetime import datetime  
 
 DB_PATH = "data/tickets.db"
 
@@ -89,3 +89,6 @@ def get_ticket_stats():
     priority_counts = dict(c.fetchall())
     conn.close()
     return status_counts, priority_counts
+
+# IT Support Toolkit - 1st Line Helpdesk Ticketing System
+# Author: Anudeep Burra | Built with Python and SQLite
