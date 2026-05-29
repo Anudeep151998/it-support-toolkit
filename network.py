@@ -108,3 +108,6 @@ COMMON_PORTS = {
     8080: "HTTP Alt",
     8443: "HTTPS Alt",
 }
+
+# IT Support Toolkit - 2nd Line Network Diagnostic Tool
+# Author: Anudeep Burra | Built with Python socket and dnspython
